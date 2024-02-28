@@ -26,5 +26,8 @@ This project is crafted to apply key Object-Oriented Programming principles, emp
 
 ## Project Structure
 To explore the Java program and classes, navigate to the following path:
-```plaintext
-src\ca\college\lasalle\oop\assignment2
+
+| Step | Folder                           |
+|------|----------------------------------|
+| 1    | src          |
+| 2    | ca/college/lasalle/oop/assignment2 |
